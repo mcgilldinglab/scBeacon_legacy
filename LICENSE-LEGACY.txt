@@ -1,0 +1,15 @@
+HISTORICAL LICENSE AND ATTRIBUTION NOTICES — scBeacon_legacy
+
+Baseline before the licensing update:
+https://github.com/mcgilldinglab/scBeacon_legacy/commit/81030eec71056b41f5bc28adfd418b47e6873663
+
+The following prior notices are retained verbatim. Earlier grants and notices
+continue to apply to the material they cover; the new licensing notice does
+not revoke those rights or relicense third-party material.
+
+No root license file was present in the captured baseline.
+
+--- Prior licensing statements in README.md ---
+# License 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
